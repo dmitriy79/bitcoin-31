@@ -25,3 +25,6 @@ make -j$(nproc)
 cd bin && ./bitcoind
 
 ====
+bitcoin-cli sendrawtransaction rawtx
+
+=====
