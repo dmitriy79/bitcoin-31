@@ -18,3 +18,6 @@ cmake .. -DBUILD_BITCOIN_QT=OFF -DENABLE_IPC=OFF
 make -j$(nproc)
 
 ===
+cd bin && ./bitcoind
+
+====
