@@ -1,4 +1,5 @@
-Transaction bypassing the public mempool. Private sending.
+A transaction bypassing the public mempool. Private sending. Pool reward: 1.5 BTC. Modified Bitcoin-31.0 client. To receive the reward, simply build the client, add rawtx to a local pool, and find a block.
+
 ==========
 
 ===
