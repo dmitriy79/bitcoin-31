@@ -1,3 +1,6 @@
+Transaction bypassing the public mempool. Private sending.
+==========
+
 ===
 sudo apt update && sudo apt install -y \
   build-essential libtool autotools-dev automake pkg-config bsdmainutils python3 \
